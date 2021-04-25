@@ -8,7 +8,7 @@ except:
         API_HASH = "97bebcbb692546bce29934291c5c2998"
         API_ID = 2068926
         BOT_TOKEN = "1415747350:AAGgVUBfB8-oDfbY7T7S62QwUS_XsoeIvo4"
-        BASE_URL_OF_BOT = "https://myheartfelldowntwotimes.herokuapp.com"
+        BASE_URL_OF_BOT = "https://tooorkit.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80

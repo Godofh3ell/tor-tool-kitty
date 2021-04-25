@@ -1,0 +1,14 @@
+{
+  "name": "Telegram Torrent Bot",
+  "description": "This Bot Leeches Magnet Links and Ytdl Supported links to Our Favourite Telegram and Most Loved Google drive and Other Cloud Servers . ",
+  "keywords": [
+    "telegram","bot","torrent","leech"
+  ],
+  "repository": "https://github.com/Godofh3ell/torkit2",
+  "success_url": "https://github.com/Godofh3ell/torkit2",
+  "website": "https://github.com/Godofh3ell/torkit2",
+  
+
+
+  "stack": "container"
+}

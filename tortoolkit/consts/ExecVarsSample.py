@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "97bebcbb692546bce29934291c5c2998"
+        API_ID = 2068926
+        BOT_TOKEN = "1415747350:AAGgVUBfB8-oDfbY7T7S62QwUS_XsoeIvo4"
+        BASE_URL_OF_BOT = "https://myheartfelldowntwotimes.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [-1001209420449]
+        OWNER_ID = 810796147
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "mongodb+srv://tsnm:tsnm@cluster0.rzbcd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
